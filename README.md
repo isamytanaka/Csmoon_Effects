@@ -2,7 +2,9 @@
 ![](logo.png)
 
 
-[![Csmoon Effects](https://img.shields.io/badge/Csmoon_Effects-FX_Core-8A2BE2?style=flat&logo=star&logoColor=white&labelColor=4B0082&color=6A5ACD)](https://github.com/isamytanaka/Csmoon_Effects)
+<div align="center">
+    
+[![Csmoon Effects](https://img.shields.io/badge/Csmoon_Effects-Disponível-8A2BE2?style=flat&logo=blender&logoColor=white&labelColor=4B0082&color=6A5ACD)](https://github.com/isamytanaka/Csmoon_Effects)
 ![Made with Lua](https://img.shields.io/badge/Made_with-Lua-000080?style=flat&logo=lua&logoColor=white&labelColor=191970&color=4169E1)
 ![Powered by Isamytanaka](https://img.shields.io/badge/Powered_by-Isamytanaka-6A5ACD?style=flat&logo=github&logoColor=white&labelColor=483D8B&color=7B68EE)
 
@@ -30,6 +32,7 @@
 ![Visual Scripting](https://img.shields.io/badge/Visual_Scripting-Ready-9370DB?style=flat&logo=visualstudio&logoColor=white&labelColor=4B0082&color=8A2BE2)
 ![GPU Accelerated](https://img.shields.io/badge/GPU-Accelerated-FF4500?style=flat&logo=nvidia&logoColor=white&labelColor=8B0000&color=FF6347)
 ![Real-time Preview](https://img.shields.io/badge/Preview-Real--time-DC143C?style=flat&logo=adobepremiere&logoColor=white&labelColor=8B0000&color=FF0000)
+</div>
 
 ## About Csmoon_Effects
 
@@ -384,4 +387,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 - GitHub: [https://github.com/isamytanaka](https://github.com/isamytanaka)
-- Project Link: [https://github.com/isamytanaka/Csmoon_Effects](https://github.com/isamytanaka/Csmoon_Effects)
